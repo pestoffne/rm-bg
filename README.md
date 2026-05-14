@@ -1,4 +1,6 @@
-# Description: CLI tool to detect and mute specific audio tracks in videos.
+## Description
+
+Command line tool to detect and mute specific audio track in video.
 
 ## How to run
 ```bash
